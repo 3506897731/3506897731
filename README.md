@@ -1,34 +1,27 @@
 ## Hi! Here is Morro ✨
 
+I'm **MORRO**, a *neko* who is into computer science and media production 🐱
+
 - 💻 I’m currently working on “团团”
 - ✨ Interested in a variety of things.
 - 💬 Mainly use **Chinese** and **English**.
 
 ---
 
+### Architecture & Technologies
+
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=docker&logoColor=white) ![RESTful API](https://img.shields.io/badge/RESTful_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event--Driven-4ECDC4?style=for-the-badge&logo=apache-kafka&logoColor=white) \
+![Domain-Driven Design](https://img.shields.io/badge/DDD-95E1D3?style=for-the-badge&logo=architecture&logoColor=white) ![CQRS](https://img.shields.io/badge/CQRS-95E1D3?style=for-the-badge&logo=architecture&logoColor=white) ![Service Mesh](https://img.shields.io/badge/Service_Mesh-95E1D3?style=for-the-badge&logo=istio&logoColor=white)
+
+---
+
 ### Programming Languages
 
-[![Top Langs - Dark](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=dracula&layout=compact&count_private=true&exclude_repo=azuelle.github.io,azuelle.github.io-source,TjkFredsBlog,vercel-github-readme-stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs - Light](https://azuelle-github-readme-stats.vercel.app/api/top-langs/?username=azuelle&theme=buefy&layout=compact&count_private=true&exclude_repo=azuelle.github.io,azuelle.github.io-source,TjkFredsBlog,vercel-github-readme-stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-#### 🛠️ Proficient
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  \
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white) ![LaTex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-#### 🔨 Knows
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  
-#### 🔎 Learning
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  
-#### 👀 Want to learn
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) \
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ### Contact
 
-![Discord - Azuelle#0616](https://github.com/3506897731)  
-[![Outlook - tjk@live.cn](https://github.com/3506897731)](mailto:tjk@live.cn) 
-[![Telegram](https://github.com/3506897731)](https://t.me/Azuelle)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
